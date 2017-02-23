@@ -1,9 +1,22 @@
-body {
-    background-color: powderblue;
+body{
+  background-color: #d4e6f1;
 }
-h1 {
+h1{
+  color: green;
+}
+h2{
     color: green;
 }
-p {
-    color: red;
+h3{
+  color: #34495e  ;
+}
+h1, h2{
+  font-family: Chaparral Pro Light;
+}
+h3{
+  font-family: Chaparral Pro;
+}
+  }
+}
+}
 }
